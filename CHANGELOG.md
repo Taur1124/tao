@@ -1,5 +1,9 @@
 # Changelog
 
+## \[0.30.5]
+
+- [`67e44e4c`](https://github.com/tauri-apps/tao/commit/67e44e4cb2d278333abe367f23f0e5ef0d2463db) ([#991](https://github.com/tauri-apps/tao/pull/991) by [@Legend-Master](https://github.com/tauri-apps/tao/../../Legend-Master)) Fix setting theme to `None` crashes the app on macOS
+
 ## \[0.30.4]
 
 - [`b404cde1`](https://github.com/tauri-apps/tao/commit/b404cde150eb767026122691aed2d21f9d6fd051) ([#995](https://github.com/tauri-apps/tao/pull/995) by [@amrbashir](https://github.com/tauri-apps/tao/../../amrbashir)) Add `WindowAttributes::background_color`, `WindowBuilder::with_background_color`, and `Window::set_background_color` APIs to set and change window background color.
